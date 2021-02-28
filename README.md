@@ -20,12 +20,12 @@
 <p>플렉스딜리버리를 소개합니다.<br>
 배달 웹 개발을 목표로 진행하였으며 3가지 웹 사이트로 구성됩니다.</p>
 
-- order site
-- owner site
+- <a href="FlexDelivery/src/main/webapp/WEB-INF/views/member/index.jsp">order site</a>
+- <a href="FlexDelivery/src/main/webapp/WEB-INF/views/owner/index.jsp">owner site</a>
 - <a href="FlexDelivery/src/main/webapp/WEB-INF/views/admin/index.jsp">admin site</a>
 
 ## Features
-- 기간 : 2021.01.11 ~ 2021.02.19 ( 6주)
+- 기간 : 2021.01.11 ~ 2021.02.19 ( 6주 )
 - 인원 : 5명
 
 ___
