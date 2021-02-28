@@ -22,7 +22,7 @@
 
 - order site
 - owner site
-- admin site
+- <a href="FlexDelivery/src/main/webapp/WEB-INF/views/admin/index.jsp">admin site</a>
 
 ## Features
 - 기간 : 2021.01.11 ~ 2021.02.19 ( 6주)
