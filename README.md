@@ -17,10 +17,10 @@
 |4 ~ 5주차|기능 구현 및 테스트|
 |6주차|디버깅 및 마무리 작업|
 ## 🛵 사용기술
-⁃ Front-End : Javascript, HTML5, CSS3, JQuery, Ajax, JSP, BootStrap <br>
-⁃ Back-End : Java, MyBatis, Oracle, Spring Tool Suite <br>
-⁃ Open API : import, SummerNote Editor, JAMES, POI, reCAPTCHA, datePicker, BCrypt, c3 <br>
-⁃ Tool : Apache Tomcat 9.0, Eclipse, Git, Github, SourceTree, STS <br>
+* Front-End : Javascript, HTML5, CSS3, JQuery, Ajax, JSP, BootStrap <br>
+* Back-End : Java, MyBatis, Oracle, Spring Tool Suite <br>
+* Open API : import, SummerNote Editor, JAMES, POI, reCAPTCHA, datePicker, BCrypt, c3 <br>
+* Tool : Apache Tomcat 9.0, Eclipse, Git, Github, SourceTree, STS <br>
 
 
 ## 🛵 내용
@@ -38,10 +38,14 @@
 ___
 ## 역할 및 페이지 구성
 #### 사장님 사이트 메인 화면
-<img src="https://user-images.githubusercontent.com/69043412/109512488-7db54d80-7ae7-11eb-944c-8fd86f840129.png" width="600"><br>
+<img src="https://user-images.githubusercontent.com/69043412/109512488-7db54d80-7ae7-11eb-944c-8fd86f840129.png" alt="ownermain" width="600"><br>
 #### 입점 신청
-<img src="https://user-images.githubusercontent.com/69043412/109515133-164ccd00-7aea-11eb-9cbb-c5b7ed1e83a4.png" width="600"><br>
+<img src="https://user-images.githubusercontent.com/69043412/109515133-164ccd00-7aea-11eb-9cbb-c5b7ed1e83a4.png" alt="launch" width="600"><br>
 #### 내가게 메인
 <img src="https://user-images.githubusercontent.com/69043412/109515408-6166e000-7aea-11eb-86a6-6fca0ae7ae5d.png" width="600"><br>
 #### 승인 현황 조회
 <img src="https://user-images.githubusercontent.com/69043412/109515399-5f048600-7aea-11eb-8d0d-c5410117684f.png" width="600"><br>
+#### 리뷰관리
+<img src="https://user-images.githubusercontent.com/69043412/109516574-b0614500-7aeb-11eb-949e-bb49adfa9fd3.png" alt="review" width="600"><br>
+#### 쿠폰 등록
+<img src="https://user-images.githubusercontent.com/69043412/109516649-c111bb00-7aeb-11eb-9267-a75436565176.png" alt="coupon" width="600"><br>
