@@ -54,7 +54,7 @@ ___
 >* 승인 현황 상세보기, 본인 인증 후 취소가 가능합니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109515399-5f048600-7aea-11eb-8d0d-c5410117684f.png" width="600"><br>
 #### ➡️ <a href="">리뷰관리</a>
->* 날짜별로 조회가 가능하며 (dattePicker)
+>* 날짜별로 조회가 가능하며 (datePicker)
 >* 부적절한 리뷰를 신고할 수 있습니다. (관리자 승인 후 차단으로 이동)
 >* 리뷰에 대한 답변 CRUD (Ajax사용)<br>
 <img src="https://user-images.githubusercontent.com/69043412/109516574-b0614500-7aeb-11eb-949e-bb49adfa9fd3.png" alt="review" width="600"><br>
@@ -73,3 +73,6 @@ ___
 #### ➡️ <a href="">사장님 꿀 팁</a>
 >* 사장님에게만 제공되는 놓치면 후회할 팁들을 모았습니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109518656-c96af580-7aed-11eb-80c2-e0a29eada045.png" alt="honeytip" width="600"><br>
+<br>
+<br>
+<br>
