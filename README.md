@@ -1,6 +1,6 @@
 # 🛵 FLEXDELIVERY
 
->🎉플렉스딜리버리를 소개합니다.<br>
+>🎉 `플렉스딜리버리`를 소개합니다.<br>
 >실생활에서 사용하고 있는 배달앱을 벤치마킹하여 배달 웹 개발을 목표로 진행하였으며 3가지 웹 사이트로 구성됩니다.</p>
 
 1. <a href="https://github.com/2020-07-31/FLEXDELIVERY/tree/master/FlexDelivery/src/main/webapp/WEB-INF/views/member">order site</a><p> : 회원 가입, 로그인, 점포 조회, 장바구니, 쿠폰 발급, 주문/결제, 리뷰 작성, 마이페이지, 선물하기, 일대일문의, 오늘 뭐먹지?</p>
@@ -37,15 +37,15 @@
 
 ___
 ## 역할 및 페이지 구성
-#### 사장님 사이트 메인 화면
+#### ➡️ <a href="">사장님 사이트 메인 화면</a>
 <img src="https://user-images.githubusercontent.com/69043412/109512488-7db54d80-7ae7-11eb-944c-8fd86f840129.png" alt="ownermain" width="600"><br>
-#### 입점 신청
+#### ➡️ <a href="">입점 신청</a>
 <img src="https://user-images.githubusercontent.com/69043412/109515133-164ccd00-7aea-11eb-9cbb-c5b7ed1e83a4.png" alt="launch" width="600"><br>
-#### 내가게 메인
+#### ➡️ <a href="">내가게 메인</a>
 <img src="https://user-images.githubusercontent.com/69043412/109515408-6166e000-7aea-11eb-86a6-6fca0ae7ae5d.png" width="600"><br>
-#### 승인 현황 조회
+#### ➡️ <a href="">승인 현황 조회</a>
 <img src="https://user-images.githubusercontent.com/69043412/109515399-5f048600-7aea-11eb-8d0d-c5410117684f.png" width="600"><br>
-#### 리뷰관리
+#### ➡️ <a href="">리뷰관리</a>
 <img src="https://user-images.githubusercontent.com/69043412/109516574-b0614500-7aeb-11eb-949e-bb49adfa9fd3.png" alt="review" width="600"><br>
-#### 쿠폰 등록
+#### ➡️ <a href="">쿠폰 등록</a>
 <img src="https://user-images.githubusercontent.com/69043412/109516649-c111bb00-7aeb-11eb-9267-a75436565176.png" alt="coupon" width="600"><br>
