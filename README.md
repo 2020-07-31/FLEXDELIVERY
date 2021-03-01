@@ -36,5 +36,4 @@
 ___
 ## 역할 및 페이지 구성
 #### 메인 화면
-<img src="![image](https://user-images.githubusercontent.com/69043412/109507828-79d2fc80-7ae2-11eb-86a6-db40ce5bf0fe.png)
-" />
+<img src="![image](https://user-images.githubusercontent.com/69043412/109507828-79d2fc80-7ae2-11eb-86a6-db40ce5bf0fe.png)"/>
