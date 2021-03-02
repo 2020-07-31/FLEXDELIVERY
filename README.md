@@ -47,30 +47,30 @@ ___
 >* 우편번호 찾기 api
 >* 사업자등록증 파일, 입점 신청 시 로고 썸네일<br>
 <img src="https://user-images.githubusercontent.com/69043412/109521610-d5a48200-7af0-11eb-9e7c-2976f3075bde.png" alt="storelaunch" width="600"/><br>
-#### ➡️ <a href="">내가게 메인</a>
+#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/myStoreIndex.jsp">내가게 메인</a>
 >* 가게 운영에 전반적인 내용을 한 눈에 볼 수 있습니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109515408-6166e000-7aea-11eb-86a6-6fca0ae7ae5d.png" width="600"><br>
 #### ➡️ <a href="">승인 현황 조회</a>
 >* 승인 현황 상세보기, 본인 인증 후 취소가 가능합니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109515399-5f048600-7aea-11eb-8d0d-c5410117684f.png" width="600"><br>
-#### ➡️ <a href="">리뷰관리</a>
+#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/reviewOwner/reviewOwner.jsp">리뷰관리</a>
 >* 날짜별로 조회가 가능하며 (datePicker)
 >* 부적절한 리뷰를 신고할 수 있습니다. (관리자 승인 후 차단으로 이동)
 >* 리뷰에 대한 답변 CRUD (Ajax사용)<br>
 <img src="https://user-images.githubusercontent.com/69043412/109516574-b0614500-7aeb-11eb-949e-bb49adfa9fd3.png" alt="review" width="600"><br>
-#### ➡️ <a href="">쿠폰 등록</a>
+#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/couponused/couponUsed.jsp">쿠폰 등록</a>
 >* 고객에게 제공중인 쿠폰 현황 조회
 >* 본인 인증 후 쿠폰을 발급 받을 수 있습니다.
 >* 만료기간이 남은 쿠폰은 재발급이 불가합니다.
 >* 만료기간 이전의 쿠폰들은 사용중지/재사용이 가능합니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109516649-c111bb00-7aeb-11eb-9267-a75436565176.png" alt="coupon" width="600"><br>
-#### ➡️ <a href="">일대일 문의</a>
+#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu5/oneToOne.jsp">일대일 문의</a>
 >* 나의 일대일 문의 작성, 전체 조회, 답변보기, 수정, 삭제가 가능합니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109518585-b5bf8f00-7aed-11eb-88c4-9aea287a1797.png" alt="ask" width="600"><br>
-#### ➡️ <a href="">자주 묻는 질문</a>
+#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu5/faq.jsp">자주 묻는 질문</a>
 >* 카테고리별 조회가 가능하며 아코디언 컴포넌트를 이용하였습니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109518619-c07a2400-7aed-11eb-8634-d430aff45770.png" alt="faq" width="600"><br>
-#### ➡️ <a href="">사장님 꿀 팁</a>
+#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu3/honeyTip/honeyTip.jsp">사장님 꿀 팁</a>
 >* 사장님에게만 제공되는 놓치면 후회할 팁들을 모았습니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109518656-c96af580-7aed-11eb-80c2-e0a29eada045.png" alt="honeytip" width="600"><br>
 <br>
