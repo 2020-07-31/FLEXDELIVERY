@@ -41,16 +41,16 @@ ___
 >* 승인 절차 후 접근할 수 있는 메뉴가 달라집니다.
 >* 로그인 / 사업자등록증 등록 / 입점 신청 / 광고, 쿠폰 신청<br>
 <img src="https://user-images.githubusercontent.com/69043412/109512488-7db54d80-7ae7-11eb-944c-8fd86f840129.png" alt="ownermain" width="600"><br>
-#### ➡️ <a href="">입점 신청</a>
+#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu1/launch/launch.jsp">입점 신청</a>
 >* ajax를 이용한 중복 확인
 >* js를 이용한 입력 값 유효성 검사
 >* 우편번호 찾기 api
 >* 사업자등록증 파일, 입점 신청 시 로고 썸네일<br>
 <img src="https://user-images.githubusercontent.com/69043412/109521610-d5a48200-7af0-11eb-9e7c-2976f3075bde.png" alt="storelaunch" width="600"/><br>
-#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu1/launch.jsp">내가게 메인</a>
+#### ➡️ <a href="">내가게 메인</a>
 >* 가게 운영에 전반적인 내용을 한 눈에 볼 수 있습니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109515408-6166e000-7aea-11eb-86a6-6fca0ae7ae5d.png" width="600"><br>
-#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/requests/requests.jsp">승인 현황 조회</a>
+#### ➡️ <a href="">승인 현황 조회</a>
 >* 승인 현황 상세보기, 본인 인증 후 취소가 가능합니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109515399-5f048600-7aea-11eb-8d0d-c5410117684f.png" width="600"><br>
 #### ➡️ <a href="">리뷰관리</a>
