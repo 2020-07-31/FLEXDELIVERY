@@ -19,7 +19,7 @@
 ## 🛵 사용기술
 * Front-End : Javascript, HTML5, CSS3, JQuery, Ajax, JSP, BootStrap <br>
 * Back-End : Java, MyBatis, Oracle, Spring Tool Suite <br>
-* Open API : import, SummerNote Editor, JAMES, POI, reCAPTCHA, datePicker, BCrypt, c3 <br>
+* Open API : import, ck Editor, JAMES, POI, reCAPTCHA, datePicker, BCrypt, c3 <br>
 * Tool : Apache Tomcat 9.0, Eclipse, Git, Github, SourceTree, STS <br>
 
 ## 🛵 내용
