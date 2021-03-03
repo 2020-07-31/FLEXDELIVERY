@@ -53,6 +53,11 @@ ___
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/requests/requests.jsp">승인 현황 조회</a>
 >* 승인 현황 상세보기, 본인 인증 후 취소가 가능합니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109515399-5f048600-7aea-11eb-8d0d-c5410117684f.png" width="600"><br>
+#### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/advertise/advertiseWrite.jsp">광고 신청</a>
+>* 원하는 광고를 선택해 결제 가능하며 (import api)
+>* 고객에게 노출되는 방식이 다른 광고입니다. (관리자 승인 후 광고
+ 시작)
+<img src="https://user-images.githubusercontent.com/69043412/109740457-a08e5180-7c0e-11eb-8155-304f9cfc4e33.png" alt="advertise" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/reviewOwner/reviewOwner.jsp">리뷰관리</a>
 >* 날짜별로 조회가 가능하며 (datePicker)
 >* 부적절한 리뷰를 신고할 수 있습니다. (관리자 승인 후 차단으로 이동)
