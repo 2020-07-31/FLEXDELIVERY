@@ -21,6 +21,14 @@
 * Back-End : Java, MyBatis, Oracle, Spring Tool Suite <br>
 * Open API : import, SummerNote Editor, JAMES, POI, reCAPTCHA, datePicker, BCrypt, c3 <br>
 * Tool : Apache Tomcat 9.0, Eclipse, Git, Github, SourceTree, STS <br>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/607f3adb5fb476059b0021201f5e48b5cafa7d82eb10d60e4385ae128aef1ac8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d6666623133623f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/607f3adb5fb476059b0021201f5e48b5cafa7d82eb10d60e4385ae128aef1ac8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d6666623133623f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/997205b77cd7eac35fdae833c285ec8c87d0d45e26f5b5482a61f391a3733844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/997205b77cd7eac35fdae833c285ec8c87d0d45e26f5b5482a61f391a3733844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/css-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="#"><img src="https://camo.githubusercontent.com/997205b77cd7eac35fdae833c285ec8c87d0d45e26f5b5482a61f391a3733844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width:100%;"></a>
+
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" style="max-width:100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1f38af5ca8299d9d7bc2df4b6f22a69533a0938bc9049023efa97c58c7218494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67426f6f742d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/1f38af5ca8299d9d7bc2df4b6f22a69533a0938bc9049023efa97c58c7218494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67426f6f742d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" style="max-width:100%;"></a>
 
 
 ## 🛵 내용
@@ -78,6 +86,8 @@ ___
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu3/honeyTip/honeyTip.jsp">사장님 꿀 팁</a>
 >* 사장님에게만 제공되는 놓치면 후회할 팁들을 모았습니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109518656-c96af580-7aed-11eb-80c2-e0a29eada045.png" alt="honeytip" width="600"><br>
+#### ➡️ DB설계
+<img src="https://user-images.githubusercontent.com/69043412/109821635-850c6080-7c79-11eb-94b5-e2a6b987589e.png" alt="honeytip" width="600"><br>
 <br>
 <br>
 <br>
