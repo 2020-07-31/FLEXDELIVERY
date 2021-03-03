@@ -47,7 +47,7 @@ ___
 >* 사업자등록증 파일, 입점 신청 시 로고 썸네일<br>
 <img src="https://user-images.githubusercontent.com/69043412/109521610-d5a48200-7af0-11eb-9e7c-2976f3075bde.png" alt="storelaunch" width="600"/><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/myStoreIndex.jsp">내가게 메인</a>
->* 가게 운영에 전반적인 내용을 한 눈에 볼 수 있습니다.<br>
+>* 가게 운영에 전반적인 내용을 한 눈에 볼 수 있습니다.(c3차트 )<br>
 <img src="https://user-images.githubusercontent.com/69043412/109515408-6166e000-7aea-11eb-86a6-6fca0ae7ae5d.png" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/requests/requests.jsp">승인 현황 조회</a>
 >* 승인 현황 상세보기, 본인 인증 후 취소가 가능합니다.<br>
