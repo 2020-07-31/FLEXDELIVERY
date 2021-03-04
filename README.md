@@ -9,18 +9,19 @@
 
 ## 🛵 기간 : 2021.01.11 ~ 2021.02.19 ( 6주 )
 - 참여 인원 : 5명<br>
+- 1 ~ 2주차 : 기획 및 분석<br>
+- 3주차 : DB설계 및 전반적인 UI 구현<br>
+- 4 ~ 5주차 : 기능 구현 및 테스트<br>
+- 6주차 : 디버깅 및 마무리 작업<br>
+
+## 🛵 사용기술
 <!-- Table -->
 |기간|내용|
 |:--:|:--|
-|1 ~ 2주차|기획 및 분석|
-|3주차|DB설계 및 전반적인 UI 구현|
-|4 ~ 5주차|기능 구현 및 테스트|
-|6주차|디버깅 및 마무리 작업|
-## 🛵 사용기술
-* Front-End : Javascript, HTML5, CSS3, JQuery, Ajax, JSP, BootStrap <br>
-* Back-End : Java, MyBatis, Oracle, Spring Tool Suite <br>
-* Open API : import, ck Editor, JAMES, POI, reCAPTCHA, datePicker, BCrypt, c3 <br>
-* Tool : Apache Tomcat 9.0, Eclipse, Git, Github, SourceTree, STS <br>
+|Front-End|Javascript, HTML5, CSS3, JQuery, Ajax, JSP, BootStrap|
+|Back-End|Java, MyBatis, Oracle, Spring Tool Suite|
+|Open API|import, ck Editor, JAMES, POI, reCAPTCHA, datePicker, BCrypt, c3|
+|Tool|Apache Tomcat 9.0, Eclipse, Git, Github, SourceTree, STS|
 
 ## 🛵 내용
 - 회원가입시 이메일 확인 처리 JAMES api이용, reCAPCHA로 무분별한 회원가입 방지, 도로명주소 api사용
