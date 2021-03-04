@@ -16,6 +16,7 @@
 
 ## 🛵 사용기술
 <!-- Table -->
+|분류||
 |:--:|:--|
 |Front-End|Javascript, HTML5, CSS3, JQuery, Ajax, JSP, BootStrap|
 |Back-End|Java, MyBatis, Oracle, Spring Tool Suite|
