@@ -38,8 +38,8 @@
 ___
 ## 역할 및 페이지 구성
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/index.jsp">사장님 사이트 메인 화면</a>
->* 승인 절차 후 접근할 수 있는 메뉴가 달라집니다.
->* 로그인 / 사업자등록증 등록 / 입점 신청 / 광고, 쿠폰 신청<br>
+>* 공지사항, 이벤트, 사장님 꿀팁, 이달의 점포 순위, 광고가 보여집니다.<br>
+>* 서류 제출 후 내 가게를 운영할 수 있습니다.
 <img src="https://user-images.githubusercontent.com/69043412/109512488-7db54d80-7ae7-11eb-944c-8fd86f840129.png" alt="ownermain" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu1/launch/launch.jsp">입점 신청</a>
 >* ajax를 이용한 중복 확인
