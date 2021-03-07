@@ -73,7 +73,7 @@ ___
 >* 나의 일대일 문의 작성, 전체 조회, 답변보기, 수정, 삭제가 가능합니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109518585-b5bf8f00-7aed-11eb-88c4-9aea287a1797.png" alt="ask" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu5/faq.jsp">자주 묻는 질문</a>
->* 카테고리별 조회가 가능하며 아코디언 컴포넌트를 이용하였습니다.<br>
+>* 카테고리별 조회가 가능하며 부트스트랩 아코디언 컴포넌트를 이용하였습니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109518619-c07a2400-7aed-11eb-8634-d430aff45770.png" alt="faq" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu3/honeyTip/honeyTip.jsp">사장님 꿀 팁</a>
 >* 사장님에게만 제공되는 놓치면 후회할 팁들을 모았습니다.<br>
