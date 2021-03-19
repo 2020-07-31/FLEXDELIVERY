@@ -42,21 +42,22 @@ ___
 >* 서류 제출 후 내 가게를 운영할 수 있습니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109512488-7db54d80-7ae7-11eb-944c-8fd86f840129.png" alt="ownermain" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu1/launch/launch.jsp">입점 신청</a>
+>* 로그인 후 내 가게 운영을 위한 서류절차입니다.
 >* ajax를 이용한 중복 확인
 >* js를 이용한 입력 값 유효성 검사
->* 우편번호 찾기 api
+>* 우편번호 찾기 api 사용
 >* 사업자등록증 파일, 입점 신청 시 로고 썸네일<br>
 <img src="https://user-images.githubusercontent.com/69043412/109521610-d5a48200-7af0-11eb-9e7c-2976f3075bde.png" alt="storelaunch" width="600"/><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/myStoreIndex.jsp">내가게 메인</a>
->* 가게 운영에 전반적인 내용을 한 눈에 볼 수 있습니다.(c3차트 )<br>
+>* 가게 운영에 전반적인 내용을 한 눈에 볼 수 있습니다.<br>
+>* 승인 요청 현황은 테이블 여러개를 카운트해 트렌젝션 처리를 하였습니다.
 <img src="https://user-images.githubusercontent.com/69043412/109515408-6166e000-7aea-11eb-86a6-6fca0ae7ae5d.png" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/requests/requests.jsp">승인 현황 조회</a>
->* 승인 현황 상세보기, 본인 인증 후 취소가 가능합니다.<br>
+>* 리스트를 출력해 뷰페이지에서 IF조건절을 사용해 뱃지 색상을 다르게하였습니다.
+>* 승인 현황 상세보기를 누르면 승인 대기 상태일 경우 본인 인증 후 취소가 가능합니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109515399-5f048600-7aea-11eb-8d0d-c5410117684f.png" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/advertise/advertiseWrite.jsp">광고 신청</a>
->* 원하는 광고를 선택해 결제 가능하며 (import api)
->* 고객에게 노출되는 방식이 다른 광고입니다. (관리자 승인 후 광고
- 시작)
+>* 회원 주문 페이지에 노출되는 광고를 선택해 결제 가능합니다. (import api)
 <img src="https://user-images.githubusercontent.com/69043412/109740457-a08e5180-7c0e-11eb-8155-304f9cfc4e33.png" alt="advertise" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/reviewOwner/reviewOwner.jsp">리뷰관리</a>
 >* 날짜별로 조회가 가능하며 (datePicker)
@@ -66,8 +67,8 @@ ___
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu2/couponused/couponUsed.jsp">쿠폰 등록</a>
 >* 고객에게 제공중인 쿠폰 현황 조회
 >* 본인 인증 후 쿠폰을 발급 받을 수 있습니다.
->* 만료기간이 남은 쿠폰은 재발급이 불가합니다.
->* 만료기간 이전의 쿠폰들은 사용중지/재사용이 가능합니다.<br>
+>* 만료기간이 남은 쿠폰은 재발급이 불가능하게 트렌젝션 처리를 하였습니다.
+>* 사용 상태 Flag를 추가하여 만료기간 이전의 쿠폰들은 사용중지/재사용이 가능합니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109516649-c111bb00-7aeb-11eb-9267-a75436565176.png" alt="coupon" width="600"><br>
 #### ➡️ <a href="https://github.com/2020-07-31/FLEXDELIVERY/blob/master/FlexDelivery/src/main/webapp/WEB-INF/views/owner/menu5/oneToOne.jsp">일대일 문의</a>
 >* 나의 일대일 문의 작성, 전체 조회, 답변보기, 수정, 삭제가 가능합니다.<br>
