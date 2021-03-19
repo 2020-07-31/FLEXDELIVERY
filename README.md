@@ -80,7 +80,7 @@ ___
 >* 사장님에게만 제공되는 놓치면 후회할 팁들을 모았습니다.<br>
 <img src="https://user-images.githubusercontent.com/69043412/109518656-c96af580-7aed-11eb-80c2-e0a29eada045.png" alt="honeytip" width="600"><br>
 #### ➡️ DB설계
->* <img src="https://user-images.githubusercontent.com/69043412/109821635-850c6080-7c79-11eb-94b5-e2a6b987589e.png" alt="honeytip" width="600"><br>
+> <img src="https://user-images.githubusercontent.com/69043412/109821635-850c6080-7c79-11eb-94b5-e2a6b987589e.png" alt="honeytip" width="600"><br>
 <br>
 <br>
 <br>
